@@ -1,0 +1,4 @@
+Mỗi khi hoàn thành bất kỳ tác vụ sửa đổi code hoặc file nào, bạn hãy tự động thực hiện các lệnh git sau:
+1. git add .
+2. git commit -m "auto: [mô tả ngắn gọn công việc đã làm]"
+3. git push
